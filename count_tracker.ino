@@ -30,7 +30,7 @@ float accel_scale = 1; // set to 0.01
 
 
 // gyro values
-int gyro_offset = 151; // 151
+int gyro_offset = 151;
 int gyro_corrected;
 int gyro_reading;
 float gyro_rate;
