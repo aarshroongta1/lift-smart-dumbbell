@@ -1,1 +1,1 @@
-# lift-smart-dumbbell
+# LIFT (smart dumbbell tracker)
